@@ -20,25 +20,25 @@ Bad Debt Management;
 
 To address the business objectives related to Marketing, Application, Performance, and Bad Debt Management, I chose the following study questions. Here’s why each question was selected and how it relates to the respective business aspects:
 
-Marketing Aspect
+- Marketing Aspect:
 
 Question 3: “What is the distribution of customers by age group and their default rates?”
 
 Understanding the distribution of customers by age group and their default rates is crucial for tailoring marketing strategies. Different age groups have distinct financial behaviors and needs. By identifying which age groups have higher default rates, marketing efforts can be directed towards educating and supporting these groups, developing targeted financial products, and designing campaigns that resonate with their specific circumstances and challenges.
 
-Application Aspect
+- Application Aspect:
 
 Question 1: “What is the average income of customers who have defaulted compared to those who have not?” and Question 5: “What is the average credit-to-debt ratio for different income brackets?”
 
 Income level and credit-to-debt ratios are key factors in the application process for credit products. By examining the average income of defaulters versus non-defaulters and the credit-to-debt ratio across different income brackets, lenders can refine their application criteria to better assess the risk associated with applicants. This helps in creating more accurate and fair credit scoring models and ensures that the credit products offered align with the financial capacity of different income segments.
 
-Performance Aspect
+- Performance Aspect:
 
 Question 2: “How does the debt-to-income ratio vary across different education levels?”
 
 The debt-to-income ratio is a significant indicator of a customer’s ability to manage debt. By analyzing how this ratio varies across education levels, we can gain insights into the financial performance and stability of different segments. This understanding allows for the development of performance metrics that take into account the educational background, leading to more personalized and effective financial advice and products that enhance overall financial health and performance.
 
-Bad Debt Management
+- Bad Debt Management:
 
 Question 4: “Is there a significant difference in work experience between customers who default and those who don’t?”
 
