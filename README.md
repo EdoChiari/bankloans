@@ -13,8 +13,8 @@ back in time with interest commensurate with the risk of default.
 
 BUSINESS OBJECTIVES:
 
-Marketing Aspect
-Application Aspect
-Performance Aspect
-Bad Debt Management
+Marketing Aspect;
+Application Aspect;
+Performance Aspect;
+Bad Debt Management;
 
